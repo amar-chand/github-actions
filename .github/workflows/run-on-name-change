@@ -1,4 +1,4 @@
-name: Run on Parameters Change
+name: Run on Name Change
 
 on:
   push:
