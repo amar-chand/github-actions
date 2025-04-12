@@ -1,2 +1,2 @@
-sleep=under
-hello=abd
+sleep=3
+hello=5
