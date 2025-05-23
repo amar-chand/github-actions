@@ -1,2 +1,2 @@
-sleep=abc
+sleep=40
 hello=5
