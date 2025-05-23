@@ -1,2 +1,2 @@
-sleep=cde
+sleep=10
 hello=5
